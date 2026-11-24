@@ -1,0 +1,9 @@
+label	srr	condition	sex	raw_read_pairs	goldfish_map_pct	native_map_pct
+N14	SRR5572569	Normoxia	female	12917585	45.54	63.89
+N15	SRR5572583	Normoxia	male	13407406	46.59	63.83
+N16	SRR5572549	Normoxia	female	13125440	45.65	62.53
+N17	SRR5572524	Normoxia	male	12872589	41.22	58.29
+A1	SRR5572553	Anoxia	male	13690768	49.39	65.76
+A2	SRR5572554	Anoxia	male	13176007	48.57	65.51
+A3	SRR5572562	Anoxia	male	13079906	49.41	66.41
+A4	SRR5572536	Anoxia	female	17648536	49.50	66.38

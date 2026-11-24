@@ -1,0 +1,26 @@
+# Large reference genomes, annotations, and alignment databases
+*.fa
+*.fasta
+*.fna
+*.gff
+*.gff3
+*.gtf
+*.gz
+*.bgz
+*.dmnd
+*.tsv.bak
+
+# Raw/intermediate quantification and large tables
+salmon_quant/
+salmon_genes/
+salmon_transcripts/
+*_vs_*.tsv
+*norm_counts.csv
+
+# R / Python / OS artifacts
+.Rhistory
+.RData
+.Rproj.user
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,0 +1,4 @@
+Salmon: 1.10.3+galaxy1 (Galaxy)
+DIAMOND: 2.2.9 (conda env: rbh_tools)
+R packages: DESeq2, tximport, ggplot2 (conda env: r_rnaseq)
+Python: 3.x (standard library)
